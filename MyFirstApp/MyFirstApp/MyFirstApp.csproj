@@ -50,9 +50,25 @@
 
 	<ItemGroup>
 	  <None Remove="Views\" />
+	  <None Remove="Helpers\" />
+	  <None Remove="Services\" />
+	  <None Remove="IServices\" />
+	  <None Remove="Models\" />
+	  <None Remove="ViewModels\" />
+	  <None Remove="IViews\" />
+	  <None Remove="Views\Base\" />
+	  <None Remove="ViewModels\Base\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Views\" />
+	  <Folder Include="Helpers\" />
+	  <Folder Include="Services\" />
+	  <Folder Include="IServices\" />
+	  <Folder Include="Models\" />
+	  <Folder Include="ViewModels\" />
+	  <Folder Include="IViews\" />
+	  <Folder Include="Views\Base\" />
+	  <Folder Include="ViewModels\Base\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <MauiXaml Update="Views\WelcomeScreen.xaml">

@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{62540391-A83A-41FA-979C-50FC1A299B2A}|Default">
-  <MonoDevelop.Ide.ItemProperties.MyFirstApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MAUI.Apps.Framework FirstBuild="True" />
 </Properties>
