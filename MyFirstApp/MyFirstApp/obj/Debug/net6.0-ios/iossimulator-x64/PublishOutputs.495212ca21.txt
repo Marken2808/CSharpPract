@@ -1,4 +1,5 @@
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/icudt.dat
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/CommunityToolkit.Mvvm.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Extensions.Configuration.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Extensions.DependencyInjection.dll
@@ -8,6 +9,9 @@
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Extensions.Options.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Extensions.Primitives.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.Maui.Graphics.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/MonkeyCache.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/MonkeyCache.FileStore.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Newtonsoft.Json.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/MyFirstApp.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.CSharp.dll
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/publish/../MyFirstApp.app/Microsoft.VisualBasic.Core.dll

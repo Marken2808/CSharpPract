@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "DEKCav2vZLepCZUJwp8Nms1pLyx1XHDNdecar3JaEpA2Wz6Q+wQP/Pq882R1wWd6U0KnxqROF/fXVx6fKUUU/g==",
-  "success": true,
+  "dgSpecHash": "7F6ekb1ysHChrctcBVFZDKOJAaE9qTc8lxHlN28jkqn+hriQ3mjP9IMI+OuOblg8Vu0L+DNBIjFmHGvy2bIcmg==",
+  "success": false,
   "projectFilePath": "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MAUI.Apps.Framework/MAUI.Apps.Framework.csproj",
   "expectedPackageFiles": [
     "/Users/nctuan/.nuget/packages/communitytoolkit.mvvm/8.0.0/communitytoolkit.mvvm.8.0.0.nupkg.sha512",
@@ -112,5 +112,15 @@
     "/Users/nctuan/.nuget/packages/xamarin.kotlinx.coroutines.android/1.6.0.1/xamarin.kotlinx.coroutines.android.1.6.0.1.nupkg.sha512",
     "/Users/nctuan/.nuget/packages/xamarin.kotlinx.coroutines.core.jvm/1.6.0.1/xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MyFirstApp is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project MyFirstApp supports:\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\n  - net6.0-ios16.0 (.NETCoreApp,Version=v6.0)\n  - net6.0-maccatalyst15.4 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "MyFirstApp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

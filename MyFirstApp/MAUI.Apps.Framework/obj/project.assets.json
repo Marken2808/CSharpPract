@@ -388,6 +388,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "MyFirstApp/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        }
       }
     },
     "net6.0-android31.0": {
@@ -2503,6 +2513,22 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "MyFirstApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.547",
+          "Microsoft.Maui.Extensions": "6.0.547",
+          "MonkeyCache.FileStore": "1.6.3"
+        },
+        "compile": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        }
       }
     },
     "net6.0-ios16.0": {
@@ -2892,6 +2918,23 @@
             "related": ".xml"
           }
         }
+      },
+      "MyFirstApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.547",
+          "Microsoft.Maui.Extensions": "6.0.547",
+          "MonkeyCache.FileStore": "1.6.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        }
       }
     },
     "net6.0-maccatalyst15.4": {
@@ -3280,6 +3323,23 @@
           "ref/net6.0/System.Runtime.InteropServices.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "MyFirstApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.547",
+          "Microsoft.Maui.Extensions": "6.0.547",
+          "MonkeyCache.FileStore": "1.6.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MyFirstApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyFirstApp.dll": {}
         }
       }
     }
@@ -5801,6 +5861,11 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "MyFirstApp/1.0.0": {
+      "type": "project",
+      "path": "../MyFirstApp/MyFirstApp.csproj",
+      "msbuildProject": "../MyFirstApp/MyFirstApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5809,14 +5874,16 @@
       "Microsoft.Extensions.Configuration.UserSecrets >= 5.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
-      "MonkeyCache.FileStore >= 1.6.3"
+      "MonkeyCache.FileStore >= 1.6.3",
+      "MyFirstApp >= 1.0.0"
     ],
     "net6.0-android31.0": [
       "CommunityToolkit.Mvvm >= 8.0.0",
       "Microsoft.Extensions.Configuration.UserSecrets >= 5.0.0",
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
-      "MonkeyCache.FileStore >= 1.6.3"
+      "MonkeyCache.FileStore >= 1.6.3",
+      "MyFirstApp >= 1.0.0"
     ],
     "net6.0-ios16.0": [
       "CommunityToolkit.Mvvm >= 8.0.0",
@@ -5824,6 +5891,7 @@
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "MonkeyCache.FileStore >= 1.6.3",
+      "MyFirstApp >= 1.0.0",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
@@ -5832,6 +5900,7 @@
       "Microsoft.Maui.Dependencies >= 6.0.547",
       "Microsoft.Maui.Extensions >= 6.0.547",
       "MonkeyCache.FileStore >= 1.6.3",
+      "MyFirstApp >= 1.0.0",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ]
   },
@@ -5864,19 +5933,35 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
+              "projectPath": "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
+            }
+          }
         },
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
+              "projectPath": "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
+            }
+          }
         },
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
+              "projectPath": "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
+            }
+          }
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj": {
+              "projectPath": "/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/MyFirstApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -6127,5 +6212,16 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MyFirstApp is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project MyFirstApp supports:\n  - net6.0-android31.0 (.NETCoreApp,Version=v6.0)\n  - net6.0-ios16.0 (.NETCoreApp,Version=v6.0)\n  - net6.0-maccatalyst15.4 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "MyFirstApp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

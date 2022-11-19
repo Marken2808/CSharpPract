@@ -263,3 +263,7 @@
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/obj/Debug/net6.0-ios/iossimulator-x64/MyFirstApp.pdb
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/obj/Debug/net6.0-ios/iossimulator-x64/MyFirstApp.genruntimeconfig.cache
 /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/obj/Debug/net6.0-ios/iossimulator-x64/ref/MyFirstApp.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/CommunityToolkit.Mvvm.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/MonkeyCache.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/MonkeyCache.FileStore.dll
+/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/MyFirstApp/MyFirstApp/bin/Debug/net6.0-ios/iossimulator-x64/Newtonsoft.Json.dll
