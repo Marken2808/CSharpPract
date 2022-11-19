@@ -55,6 +55,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "suppressParent": "All",
               "target": "Package",
@@ -66,6 +74,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "MonkeyCache.FileStore": {
+              "target": "Package",
+              "version": "[1.6.3, )"
             }
           },
           "imports": [
@@ -98,6 +110,14 @@
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "suppressParent": "All",
               "target": "Package",
@@ -109,6 +129,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "MonkeyCache.FileStore": {
+              "target": "Package",
+              "version": "[1.6.3, )"
             }
           },
           "imports": [
@@ -144,6 +168,14 @@
         "net6.0-ios16.0": {
           "targetAlias": "net6.0-ios",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "suppressParent": "All",
               "target": "Package",
@@ -155,6 +187,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "MonkeyCache.FileStore": {
+              "target": "Package",
+              "version": "[1.6.3, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -195,6 +231,14 @@
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "suppressParent": "All",
               "target": "Package",
@@ -206,6 +250,10 @@
               "target": "Package",
               "version": "[6.0.547, )",
               "autoReferenced": true
+            },
+            "MonkeyCache.FileStore": {
+              "target": "Package",
+              "version": "[1.6.3, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",

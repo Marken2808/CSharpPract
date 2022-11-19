@@ -58,6 +58,8 @@
 	  <None Remove="IViews\" />
 	  <None Remove="Views\Base\" />
 	  <None Remove="ViewModels\Base\" />
+	  <None Remove="CommunityToolkit.Mvvm" />
+	  <None Remove="MonkeyCache.FileStore" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Views\" />
@@ -74,5 +76,9 @@
 	  <MauiXaml Update="Views\WelcomeScreen.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
+	  <PackageReference Include="MonkeyCache.FileStore" Version="1.6.3" />
 	</ItemGroup>
 </Project>
