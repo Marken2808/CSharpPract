@@ -8,21 +8,20 @@
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>title</Value>
+        <State name="__root__">
+          <Node name="MyFirstApp" expanded="True">
+            <Node name="MAUI.Apps.Framework" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.MyFirstApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C83B3E28-07B6-4668-A6C1-C64426EF1B0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tab/App.xaml">
+    <Files>
+      <File FileName="Tab/App.xaml" Line="14" Column="1" />
+      <File FileName="Tab/Pages/HomePage.xaml" />
+      <File FileName="Tab/Pages/SettingsPage.xaml" />
+      <File FileName="Tab/Pages/AboutPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tab" expanded="True">
+            <Node name="Tab" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tab PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
