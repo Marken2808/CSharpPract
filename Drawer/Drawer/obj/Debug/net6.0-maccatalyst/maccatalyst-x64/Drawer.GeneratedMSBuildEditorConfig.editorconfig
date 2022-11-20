@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Drawer
+build_property.ProjectDir = /Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/HomePage.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/Profile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.Profile.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Profile.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Profile.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/SettingsPage.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
