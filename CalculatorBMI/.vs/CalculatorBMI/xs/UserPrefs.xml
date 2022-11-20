@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{4345B050-F567-4AC7-B875-D62B07F1774E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorBMI/Views/CalculatorPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorBMI/AppShell.xaml">
     <Files>
-      <File FileName="CalculatorBMI/Views/CalculatorPage.xaml" Line="8" Column="47" />
-      <File FileName="CalculatorBMI/ViewModels/CalculatorViewModel.cs" Line="15" Column="61" />
-      <File FileName="CalculatorBMI/AppShell.xaml" Line="8" Column="35" />
+      <File FileName="CalculatorBMI/Views/CalculatorPage.xaml" Line="12" Column="26" />
+      <File FileName="CalculatorBMI/ViewModels/CalculatorViewModel.cs" Line="18" Column="1" />
+      <File FileName="CalculatorBMI/AppShell.xaml" Line="7" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +14,6 @@
               <Node name="Views" expanded="True">
                 <Node name="CalculatorPage.xaml" expanded="True" />
               </Node>
-              <Node name="AppShell.xaml" selected="True" />
             </Node>
           </Node>
         </State>
@@ -25,8 +24,9 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CalculatorBMI PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorBMI PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

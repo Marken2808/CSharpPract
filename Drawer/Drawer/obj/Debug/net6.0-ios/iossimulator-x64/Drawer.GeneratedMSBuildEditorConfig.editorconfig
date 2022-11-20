@@ -16,17 +16,35 @@ build_metadata.AdditionalFiles.ManifestResourceName = Drawer.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Controls/BodyView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Controls.BodyView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls/BodyView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls/BodyView.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Controls/FooterView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Controls.FooterView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls/FooterView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls/FooterView.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Controls/HeaderView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Controls.HeaderView.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls/HeaderView.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls/HeaderView.xaml
+
+[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/AppointmentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.AppointmentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/AppointmentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/AppointmentPage.xaml
+
 [/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages/HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages/HomePage.xaml
-
-[/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/Profile.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Drawer.Pages.Profile.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages/Profile.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages/Profile.xaml
 
 [/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer/Pages/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

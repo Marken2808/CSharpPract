@@ -2,6 +2,7 @@
 <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:pages="clr-namespace:Drawer.Pages"
+             xmlns:controls="clr-namespace:Drawer.Controls"
              x:Class="Drawer.App">
     <Application.Resources>
         <ResourceDictionary>
@@ -14,11 +15,26 @@
 
     <Application.MainPage>
         <Shell FlyoutBehavior="Flyout" FlyoutHeaderBehavior="Fixed" FlyoutVerticalScrollMode="Auto">
-            <FlyoutItem Title="Profile">
-                <ShellContent ContentTemplate="{DataTemplate pages:ProfilePage}"/>
-            </FlyoutItem>
+
+
+            <Shell.FlyoutHeader>
+                <controls:HeaderView />
+            </Shell.FlyoutHeader>
+
+            <!--<Shell.FlyoutContent>
+            </Shell.FlyoutContent>-->
+
+            <Shell.FlyoutFooter>
+                <controls:FooterView />
+            </Shell.FlyoutFooter>
+
+
+            
             <FlyoutItem Title="Home">
                 <ShellContent ContentTemplate="{DataTemplate pages:HomePage}"/>
+            </FlyoutItem>
+            <FlyoutItem Title="Appointment">
+                <ShellContent ContentTemplate="{DataTemplate pages:AppointmentPage}"/>
             </FlyoutItem>
             <FlyoutItem Title="Settings">
                 <ShellContent ContentTemplate="{DataTemplate pages:SettingsPage}"/>

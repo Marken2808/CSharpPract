@@ -50,9 +50,11 @@
 
 	<ItemGroup>
 	  <None Remove="Pages\" />
+	  <None Remove="Controls\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Pages\" />
+	  <Folder Include="Controls\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <MauiXaml Update="Pages\HomePage.xaml">
@@ -62,6 +64,15 @@
 	    <SubType></SubType>
 	  </MauiXaml>
 	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Pages\HomePage %28copy%29.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="Controls\HeaderView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="Controls\FooterView.xaml">
+	    <SubType></SubType>
+	  </MauiXaml>
+	  <MauiXaml Update="Controls\ContentView.xaml">
 	    <SubType></SubType>
 	  </MauiXaml>
 	</ItemGroup>

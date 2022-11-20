@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Drawer.Controls.HeaderView"
+             BackgroundColor="LightSteelBlue">
+    
+
+    <Grid ColumnDefinitions="*, Auto" RowDefinitions="Auto, Auto, Auto, Auto" Padding="20">
+        <VerticalStackLayout Grid.Row="0">
+            <Label 
+                Text="Username"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+        </VerticalStackLayout>
+            
+        <HorizontalStackLayout Grid.Row="1" HorizontalOptions="Center">
+
+            <Label Text="@Facebook" />
+            <Label Text="@Instagram" />
+            <Label Text="@Website" />
+
+        </HorizontalStackLayout>
+
+    </Grid>
+</ContentView>
+

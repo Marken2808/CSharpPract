@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Drawer.app/Contents/MacOS/Drawer">
+      <BCSymbolMapName>Drawer.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Drawer.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>Drawer.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/Drawer/Drawer</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

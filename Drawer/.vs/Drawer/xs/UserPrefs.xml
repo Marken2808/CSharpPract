@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{7B7657D0-C496-4DCC-9AF9-747E107A5C4D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Drawer/App.xaml">
     <Files>
-      <File FileName="Drawer/App.xaml" Line="18" Column="31" />
+      <File FileName="Drawer/App.xaml" Line="17" Column="12" />
+      <File FileName="Drawer/Controls/BodyView.xaml" Line="7" Column="13" />
+      <File FileName="Drawer/Controls/HeaderView.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Drawer" expanded="True">
             <Node name="Drawer" expanded="True">
+              <Node name="Controls" expanded="True">
+                <Node name="BodyView.xaml" expanded="True" />
+                <Node name="FooterView.xaml" expanded="True" />
+              </Node>
               <Node name="Pages" expanded="True">
+                <Node name="AppointmentPage.xaml" expanded="True" />
                 <Node name="HomePage.xaml" expanded="True" />
-                <Node name="Profile.xaml" expanded="True" />
-                <Node name="SettingsPage.xaml" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -19,12 +24,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Drawer PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <MonoDevelop.Ide.ItemProperties.Drawer PreferredExecutionTarget="MyAppleMacCatalystID" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38656413-47D4-4F2C-816B-8DBADB889134" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
