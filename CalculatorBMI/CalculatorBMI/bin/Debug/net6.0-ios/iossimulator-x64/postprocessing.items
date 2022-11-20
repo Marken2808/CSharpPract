@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CalculatorBMI.app/CalculatorBMI">
+      <BCSymbolMapName>CalculatorBMI.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CalculatorBMI.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/CalculatorBMI/CalculatorBMI/obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CalculatorBMI.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/nctuan/Desktop/T-Drive/Practical/CSharpPract/CalculatorBMI/CalculatorBMI</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
